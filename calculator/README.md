@@ -12,7 +12,7 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 
 ## Live Demo
 
-You can try the calculator live by visiting the following link: [Live Demo](https://github.com/RiyaMotwani/CODSOFT/calculator)
+You can try the calculator live by visiting the following link: [Live Demo]https://github.com/RiyaMotwani/CODSOFT/tree/db38bad9aa35b8f716947c213e31c8bbf05bff60/calculator)
 
 ## Getting Started
 
