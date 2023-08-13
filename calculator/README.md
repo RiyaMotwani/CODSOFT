@@ -20,7 +20,7 @@ To run the calculator on your local machine, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/RiyaMotwani/calculator.git`
 2. Navigate to the project directory: `cd calculator`
-3. Open `index.html` in your web browser.
+3. Open `calc.html` in your web browser.
 
 ## Usage
 
