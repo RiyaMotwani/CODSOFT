@@ -42,5 +42,5 @@ For questions or support, feel free to contact:
 
 Riya Motwani
 Email: motwaniriya42@gmail.com
-GitHub: [Your GitHub Profile](https://github.com/RiyaMotwani)
+GitHub: [RiyaMotwani](https://github.com/RiyaMotwani)
 
